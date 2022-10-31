@@ -142,7 +142,7 @@ It is recommended to read and follow this guide entirely as there is a lot of co
    Ubuntu, Debian
 
    ```bash
-   sudo apt-get install python38
+   sudo apt-get install python3.8
    ### (If you wish to stay on Python 3.6, run `sudo apt-get install python3-pip` and then `pip3 install -U pip`)
    sudo pip3 install ansible
    ```
